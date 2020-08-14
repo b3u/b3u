@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My new username is [@binyamin](https://github.com/binyamin)
+
 <!--
 **b3u/b3u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
